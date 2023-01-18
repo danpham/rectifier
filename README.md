@@ -1,2 +1,2 @@
 # rectifier
-Low drop voltage rectifier
+Low voltage drop rectifier
